@@ -1,5 +1,6 @@
 Acknowledgments: This lab has been adapted from [this lab](http://people.cs.ksu.edu/~sherrill/labs/lab05/lineage.cpp) by [Jessica Sherrill](http://people.cs.ksu.edu/~sherrill/) at Kansas State University (current affiliation unknown).
 
+
 # Memory management
 The ability to dynamically allocate and deallocate memory is one of the strongest features of C++ programming, but the greatest strength can also be the greatest weakness. This is certainly true of C++ applications, where memory-handling problems are among the most common bugs.
 
